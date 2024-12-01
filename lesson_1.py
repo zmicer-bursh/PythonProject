@@ -80,3 +80,13 @@
 # print(1 < 4) #True
 # print(1 <= 2) #False
 # print(1 >= 4) #True
+
+a = 4
+b = 3
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a ** b)
+print(a % b)
+print(a // b)
