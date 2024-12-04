@@ -97,6 +97,28 @@
 
 import random
 
+# list_1 = [10]
+# list_2 = [10]
+# print(id(list_1))
+# print(id(list_2))
+# print(list_1 == list_2)
+# print(list_1 is list_2)
+
+# a = str(10)
+# b = str(10)
+# c = str(10)
+# print(id(list(a)))
+# print(id(list(b)))
+# print(id(list(c)))
+
+# a1 = [5]
+# a2 = [5]
+# print(id(bool(a1)))
+# print(id(bool(a2)))
+
+
+
+
 
 
 
